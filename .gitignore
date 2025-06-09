@@ -1,0 +1,41 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache
+.npm/
+
+# VS Code settings
+.vscode/
+
+# Multer uploads (if storing temporarily on disk)
+uploads/
+temp/
+tmp/
+
+# R2 or AWS SDK generated files (if any)
+.aws/
+
+# Coverage reports
+coverage/
