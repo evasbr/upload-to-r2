@@ -6,6 +6,9 @@ This project provides a simple way to **upload and delete images using Cloudflar
 > ✅ Designed for developer reuse and scalability  
 > ✅ Clean, modular, and easy to integrate
 
+Full tutorial on : 
+[Medium](https://medium.com/@evasbr19/cloudflare-r2-file-upload-delete-service-with-aws-s3-compatible-api-express-js-multer-714a2bb47fde)
+
 ---
 
 ## 📦 Tech Stack
